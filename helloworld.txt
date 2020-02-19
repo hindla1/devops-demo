@@ -1,2 +1,4 @@
 Hi, modified file
-adding new file
+adding new file new line
+
+adding another line
