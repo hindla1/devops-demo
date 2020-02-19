@@ -1,4 +1,5 @@
 Hi, modified file
 adding new file new line
 
-adding another line
+adding another
+line
